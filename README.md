@@ -30,13 +30,17 @@
 
 ---
 
+## 联系方式
+
+[TG电报群](https://t.me/+Wj3ALdyYXV1lNmM1)
+
 
 
 ## 待更新内容
 
 如果对您有用，请给个star:star::star::star:谢谢。点赞可让我看到大家的关注情况，持续更新的动力，谢谢支持。
 
-刚建了个群，随缘加加！不能分享的代码在群里交流！群号：:rocket:`1040784971`:rocket:
+
 
 许多内容待整理。
 
@@ -85,12 +89,4 @@
 ### 瑞数JS
 
 
-
-
-## 联系方式
-欢迎技术交流：`huaiyukeji@gmail.com`
-
-
-
-TG电报群：https://t.me/joinchat/99xuS4HiOIc2YTU1(老群已解散)
 
