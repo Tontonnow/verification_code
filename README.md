@@ -32,7 +32,7 @@
 
 ## 联系方式
 
-[TG电报群](https://t.me/+Wj3ALdyYXV1lNmM1)
+TG电报 `@heeetui`
 
 
 
